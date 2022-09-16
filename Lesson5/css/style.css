@@ -1,0 +1,121 @@
+main {
+  color:rgb(105, 11, 11);
+  font-family: "Larsseit";
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.2;
+}
+.general > p{
+  color: rgb(64, 4, 120);
+}
+header {
+  color: rgb(17, 14, 14);
+  font-family: "Lato";
+  font-weight: 900px;
+  text-align: center;
+  text-shadow: 10px 1px 2px gray;
+  text-transform:uppercase;
+}
+
+.lifestyle {
+  color:rgb(250, 75, 0);
+  font-family: "Lato";
+  font-weight: 400px;
+  text-align: center;
+  text-transform:none;
+  text-shadow:none;
+}
+
+div.general {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+.general > p {
+  color:black;
+  font-family: "Larsseit";
+  font-weight: 300;
+  text-align: justify;
+}
+.firy {
+  margin-top: 10px;
+  color:rgb(1, 157, 185);
+  font-family: "Lato";
+  font-weight: 400;
+}
+.firy > h2 {
+  color: rgb(255, 17, 0);
+  font-family: "Larsseit";
+  font-weight: 900;
+  letter-spacing: 2px;
+  white-space: nowrap;
+  word-spacing: 10px;
+  text-transform: uppercase;
+}
+.licence { color: rgb(86, 34, 1);
+  padding: 20px;
+  text-align: center;
+}
+.licence > ul {
+  text-align: justify;
+}
+
+
+.state {
+  color: rgb(145, 13, 24);
+  text-align: justify;
+  padding: 30px;
+  margin-left: 30px;
+  text-indent: 30px;
+}
+.state > h2 {
+  text-align: center;
+
+}
+
+.privat >p {
+  color: rgb(57, 6, 105);
+  margin-bottom: 40px;
+}
+
+.hunter {
+  color: rgb(6, 72, 5);
+}
+.criminal {
+  margin-top: 24px;
+  margin-left: 80px;
+  padding: 2px 13px;
+  width: 1200px;
+  text-align: justify;
+  color:green;
+}
+
+footer {
+  color:yellowgreen;
+  text-align: center;
+}
+
+footer.footer {
+  margin-top: 12px;
+  color:rgb(181, 13, 210);
+}
+
+h2 {
+  font-family: "Roboto";
+  font-weight: 900;
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: 900;
+}
+
+ul {
+  padding: 3px 3px 3px 3px;
+  color: rgb(109, 10, 202);
+}
+
+li {
+  list-style:inside;
+  padding: 5px 5px 5px 5px;
+  color: rgb(252, 0, 164);
+}
